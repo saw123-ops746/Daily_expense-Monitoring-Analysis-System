@@ -1,0 +1,1 @@
+pandas numpy   seaborn and   matplotlib  tkinter and gui interface
